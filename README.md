@@ -1,0 +1,1 @@
+This code is an Express application with routes for handling GET requests to retrieve information about t-shirts and pants, as well as POST requests to customize t-shirts and pants with logos. Comments are added to explain each section of the code, including route definitions, request handling, and server start-up.
